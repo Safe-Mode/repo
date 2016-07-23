@@ -2,3 +2,4 @@ alert("Hello, World!");
 var h = 2+2;
 alert(h);
 alert("Hello my dear friend");
+alert("How are you..bitch?")
