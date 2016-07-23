@@ -1,1 +1,2 @@
 alert("goodbye, World!");
+alert("goodbye to all");
