@@ -1,3 +1,4 @@
 alert("goodbye, World!");
 alert("goodbye to all");
 print("Все бабы дуры");
+Болит душа от потерь, верю я, ты тоже верь!
