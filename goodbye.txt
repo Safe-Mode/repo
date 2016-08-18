@@ -1,2 +1,3 @@
 alert("goodbye, World!");
 alert("goodbye to all");
+print("Все бабы дуры");
